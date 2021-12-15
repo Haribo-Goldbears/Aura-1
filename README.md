@@ -2,18 +2,19 @@
 
 Phase 1
 • Shall set-up the Raspberry Pi and configure it for the project
--Done in class already
+  -Done in class already
 
 • Shall demonstrate basic understanding of Python coding
-o Create simple unit conversion program
--Select three unit conversions (Examples: Miles to Km, LBS to Kg, celcius to ferhenheit, etc)
+  o Create simple unit conversion program
+    -Select three unit conversions (Examples: Miles to Km, LBS to Kg, celcius to ferhenheit, etc)
+      - Done already 
 
 • Shall demonstrate basic understanding of Raspberry Pi I/O
-o Configure LED on breadboard 
--mostly done (we still need to add the LED and resistor)
-o Blink LED
--how often will it blink?
--What color will the LED be?
+  o Configure LED on breadboard 
+    -mostly done (we still need to add the LED and resistor)
+  o Blink LED
+    -how often will it blink? TEN TIMES 
+    -What color will the LED be? RED 
 
 • Shall demonstrate basic understanding of Pygame
 o Add a random rectangle to the center of the game screen
